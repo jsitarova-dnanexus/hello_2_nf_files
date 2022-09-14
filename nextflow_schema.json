@@ -1,0 +1,14 @@
+{
+    "title": "input parameters",
+    "type": "object",
+    "definitions": {
+        "input_output_options": {
+            "title": "Input/output options",
+            "properties": {
+                "word": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}
